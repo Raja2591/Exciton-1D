@@ -15,6 +15,5 @@ There are several other fundamental differences and similarities between a polar
 
 Reference
 
-1. Ghosh, R.; Pochas, C. M.; Spano, F. C. Polaron Delocalization in Conjugated Polymer Films. J. Phys. Chem. C 2016, 120, 11394−
-11406.
+1. Ghosh, R.; Pochas, C. M.; Spano, F. C. Polaron Delocalization in Conjugated Polymer Films. J. Phys. Chem. C 2016, 120, 11394-11406.
 ---------------------------------------------------------------------------------------------------------------------------------
