@@ -10,7 +10,7 @@ Some major differences are:
 
 3. Because the ground states are different, polaron absorption and exciton absorption is affected differently by disorder. For example, exciton absortion is severely affected by LL disorder (please look into the reference below to learn about LL disorder) while polaron absorption is unchanged. 
 
-There are several other fundamental differences and similarities between a polaron and an exciton and we are writing a manuscript on it.
+There are several other fundamental differences and similarities between a polaron and an exciton and we are writing a manuscript to be submitted in Accounts of Chemical Research.
 
 
 Reference
